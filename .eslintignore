@@ -1,0 +1,11 @@
+# Legacy backup files - do not lint
+_LEGACY_BACKUP/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+dist/
+
